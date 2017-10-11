@@ -1,0 +1,5 @@
+xul.dll
+firefox.exe
+libxul.so
+XUL
+firefox

@@ -1,0 +1,1 @@
+ICU data shipped with Firefox, no symbols present.

@@ -6,3 +6,6 @@ firefox
 nss3.dll
 mozglue.dll
 sandboxbroker.dll
+libnss3.dylib
+libmozglue.dylib
+libnspr4.so

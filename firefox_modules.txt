@@ -9,3 +9,4 @@ sandboxbroker.dll
 libnss3.dylib
 libmozglue.dylib
 libnspr4.so
+freebl3.dll

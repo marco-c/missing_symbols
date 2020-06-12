@@ -18,6 +18,7 @@ avrt.dll
 bcrypt.dll
 bcryptprimitives.dll
 cfgmgr32.dll
+clbcatq.dll
 combase.dll
 coremessaging.dll
 coreuicomponents.dll
@@ -28,12 +29,15 @@ d2d1.dll
 d3d11.dll
 d3d9.dll
 d3dcompiler_47.dll
+dbgcore.dll
 dbghelp.dll
 dcomp.dll
+dhcpcsvc.dll
 devobj.dll
 dnsapi.dll
 dwmapi.dll
 dwrite.dll
+dxcore.dll
 dxgi.dll
 dxva2.dll
 evr.dll
@@ -77,7 +81,9 @@ pnrpnsp.dll
 powrprof.dll
 profapi.dll
 propsys.dll
+rasadhlp.dll
 rasman.dll
+rmclient.dll
 rpcrt4.dll
 rsaenh.dll
 rtworkq.dll

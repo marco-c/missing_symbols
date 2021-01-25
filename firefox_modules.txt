@@ -14,3 +14,4 @@ firefox-esr
 mozavutil.dll
 mozavcodec.dll
 lgpllibs.dll
+softokn3.dll

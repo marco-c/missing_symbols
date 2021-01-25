@@ -124,6 +124,7 @@ wshbth.dll
 wsock32.dll
 wtsapi32.dll
 WindowManagementAPI.dll
+Wldp.dll
 WINNSI.DLL
 WINSTA.dll
 xmllite.dll

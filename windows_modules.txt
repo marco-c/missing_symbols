@@ -15,6 +15,7 @@ api-ms-win-crt-utility-l1-1-0.dll
 apphelp.dll
 audioses.dll
 avrt.dll
+bcp47mrm.dll
 bcrypt.dll
 bcryptprimitives.dll
 cfgmgr32.dll

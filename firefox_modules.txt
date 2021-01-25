@@ -13,3 +13,4 @@ freebl3.dll
 firefox-esr
 mozavutil.dll
 mozavcodec.dll
+lgpllibs.dll

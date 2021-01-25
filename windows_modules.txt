@@ -118,4 +118,5 @@ ws2_32.dll
 wshbth.dll
 wsock32.dll
 wtsapi32.dll
+WindowManagementAPI.dll
 xmllite.dll

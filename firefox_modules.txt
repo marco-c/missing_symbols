@@ -15,3 +15,4 @@ mozavutil.dll
 mozavcodec.dll
 lgpllibs.dll
 softokn3.dll
+nssckbi.dll

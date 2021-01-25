@@ -34,6 +34,7 @@ dbgcore.dll
 dbghelp.dll
 dcomp.dll
 dhcpcsvc.dll
+dhcpcsvc6.DLL
 devobj.dll
 dnsapi.dll
 dwmapi.dll

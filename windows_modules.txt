@@ -22,6 +22,7 @@ clbcatq.dll
 combase.dll
 coremessaging.dll
 coreuicomponents.dll
+ColorAdapterClient.dll
 crypt32.dll
 cryptbase.dll
 cryptsp.dll

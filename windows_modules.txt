@@ -113,6 +113,7 @@ winrnr.dll
 winspool.drv
 wintrust.dll
 wintypes.dll
+wow64cpu.dll
 ws2_32.dll
 wshbth.dll
 wsock32.dll

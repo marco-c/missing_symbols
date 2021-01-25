@@ -85,6 +85,7 @@ pnrpnsp.dll
 powrprof.dll
 profapi.dll
 propsys.dll
+psapi.dll
 rasadhlp.dll
 rasman.dll
 rmclient.dll

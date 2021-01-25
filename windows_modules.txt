@@ -80,6 +80,7 @@ ntdll.dll
 ntmarta.dll
 ole32.dll
 oleaut32.dll
+ondemandconnroutehelper.dll
 pnrpnsp.dll
 powrprof.dll
 profapi.dll
